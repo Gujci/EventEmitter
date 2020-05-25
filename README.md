@@ -3,6 +3,7 @@ A lightweight tool to easily implement listener pattern.
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Build Status](https://travis-ci.org/Gujci/EventEmitter.svg?branch=master)](https://travis-ci.org/Gujci/EventEmitter)
+![Swift](https://github.com/Gujci/EventEmitter/workflows/Swift/badge.svg)
 
 Example
 ========
